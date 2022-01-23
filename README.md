@@ -25,3 +25,16 @@ This EFI was developed based on the following repository
 https://github.com/MhFoysal/Ryzen_B450M-S2H-Hackintosh  
 MhFoysal's Ryzen_B450M-S2H-Hackintosh  
 
+***
+# Support Secure Boot Enabled settings
+See feature/enable_secure_boot branch  
+https://github.com/FREEWING-JP/OpenCore-of-Big-Sur-for-AMD-Ryzen-3400GE-Lenovo-M75q-Tiny/tree/feature/enable_secure_boot  
+
+# for more detail
+Secure Bootをオンの状態で Hackintosh用のブートローダー OpenCoreを動かす方法  
+http://www.neko.ne.jp/~freewing/software/osx86_hackintosh_enable_secure_boot/  
+
+This is using following repository  
+https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk  
+ValdikSS's Super UEFIinSecureBoot Disk  
+
