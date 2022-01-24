@@ -26,6 +26,11 @@ https://github.com/MhFoysal/Ryzen_B450M-S2H-Hackintosh
 MhFoysal's Ryzen_B450M-S2H-Hackintosh  
 
 ***
+# Lenovo ThinkCentre M75s Small Gen2 AMD Ryzen 7 PRO 4750G version
+https://github.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2  
+FREEWING-JP / OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2  
+
+***
 # Support Secure Boot Enabled settings
 See feature/enable_secure_boot branch  
 https://github.com/FREEWING-JP/OpenCore-of-Big-Sur-for-AMD-Ryzen-3400GE-Lenovo-M75q-Tiny/tree/feature/enable_secure_boot  
