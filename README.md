@@ -21,6 +21,9 @@ Env.
 OpenCoreを使って ThinkCentre M75q Tiny Ryzen 5 PRO 3400GEで macOS Big Surの夢を見た！  
 http://www.neko.ne.jp/~freewing/hardware/lenovo_m75q_amd_ryzen_pro_3400ge_ryzentosh_osx86/  
 
+<img src="https://img.youtube.com/vi/oeE1io91f6k/hqdefault.jpg" alt="OpenCore Ryzentosh Big Sur Lenovo ThinkCentre M75q Tiny AMD Ryzen 5 PRO 3400GE Hackintosh OSX86" title="OpenCore Ryzentosh Big Sur Lenovo ThinkCentre M75q Tiny AMD Ryzen 5 PRO 3400GE Hackintosh OSX86" width="320" height="180"> _ 
+[YouTube https://youtu.be/oeE1io91f6k](https://youtu.be/oeE1io91f6k)
+
 # Very Thanks
 This EFI was developed based on the following repository  
 https://github.com/MhFoysal/Ryzen_B450M-S2H-Hackintosh  
