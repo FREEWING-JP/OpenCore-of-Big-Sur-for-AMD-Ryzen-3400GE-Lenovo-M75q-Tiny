@@ -9,7 +9,8 @@ Env.
 * Memory DDR4-2667 8GB + 16GB
 * M.2 NVMe SSD 128GB Western Digital WDC PC SN520 SDAPMUW-128G-1001
 * Audio Realtek High Definition Audio ALC222 HDAUDIO\FUNC_01&VEN_10EC&DEV_0222
-  
+  * Intel Wireless-AC 9260 (2x2) + Bluetooth (But useless WiFi)
+
 * OpenCore 0.7.7
 * macOS Big Sur 11.6.2 (20G314)  
 * macOS Big Sur 11.6.3 (20G415)  
