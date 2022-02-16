@@ -1,6 +1,6 @@
 # OpenCore-of-Big-Sur-for-AMD-Ryzen-3400GE-Lenovo-M75q-Tiny
 OpenCore 0.7.8  
-Big Sur 11.6.3  
+Big Sur 11.6.4  
 Monterey 12.2.1  
 AMD Ryzen 3400GE Lenovo M75q Tiny  
 Hackintosh Ryzentosh OSX86 on AMD based machines  
@@ -17,6 +17,7 @@ Env.
 * OpenCore 0.7.8
 * macOS Big Sur 11.6.2 (20G314)
 * macOS Big Sur 11.6.3 (20G415)
+* macOS Big Sur 11.6.4 (20G417)
 * macOS Monterey 12.2 (21D49)
 * macOS Monterey 12.2.1 (21D62)
 
